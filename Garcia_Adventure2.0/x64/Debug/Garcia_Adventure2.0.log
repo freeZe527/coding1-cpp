@@ -1,0 +1,4 @@
+﻿  Garcia_Adventure2.0.cpp
+C:\Users\garci\Github\coding1-cpp\Garcia_Adventure2.0\Garcia_Adventure2.0.cpp(116,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\garci\Github\coding1-cpp\Garcia_Adventure2.0\Garcia_Adventure2.0.cpp(387,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Garcia_Adventure2.0.vcxproj -> C:\Users\garci\Github\coding1-cpp\Garcia_Adventure2.0\x64\Debug\Garcia_Adventure2.0.exe

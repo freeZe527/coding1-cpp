@@ -1,0 +1,3 @@
+﻿  CodingWeek10.cpp
+C:\Users\garci\Github\coding1-cpp\CodingWeek10\CodingWeek10.cpp(115,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CodingWeek10.vcxproj -> C:\Users\garci\Github\coding1-cpp\CodingWeek10\x64\Debug\CodingWeek10.exe
